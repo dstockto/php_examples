@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>PHP 5.5 Examples</title>
+    <title>PHP 5.3 - 5.6 Examples</title>
     <link href="/css/bootstrap.css" rel="stylesheet">
     <script src="/js/bootstrap.js"></script>
 </head>
@@ -73,6 +73,26 @@
                 - <a href="viewer.php?src=src/Example/PHP55/FinallyKeyword.php">Source</a></li>
         </ul>
     </li>
+    <li>PHP 5.6
+        <ul>
+            <li><a href="runcode.php?src=Example\PHP56\ArgumentUnpacking">Argument Unpacking</a>
+                - <a href="viewer.php?src=src/Example/PHP56/ArgumentUnpacking.php">Source</a></li>
+            <li><a href="runcode.php?src=Example\PHP56\ConstantExpressions">Constant Expressions</a>
+                - <a href="viewer.php?src=src/Example/PHP56/ConstantExpressions.php">Source</a></li>
+            <li><a href="runcode.php?src=Example\PHP56\DebugInfo">DebugInfo</a>
+                - <a href="viewer.php?src=src/Example/PHP56/DebugInfo.php">Source</a></li>
+            <li><a href="runcode.php?src=Example\PHP56\Exponentiation">Exponentiation</a>
+                - <a href="viewer.php?src=src/Example/PHP56/Exponentiation.php">Source</a></li>
+            <li><a href="runcode.php?src=Example\PHP56\UseConstant">Use Constant</a>
+                - <a href="viewer.php?src=src/Example/PHP56/UseConstant.php">Source</a></li>
+            <li><a href="runcode.php?src=Example\PHP56\UseFunction">Use Function</a>
+                - <a href="viewer.php?src=src/Example/PHP56/UseFunction.php">Source</a></li>
+            <li><a href="runcode.php?src=Example\PHP56\Variadics">Variadics</a>
+                - <a href="viewer.php?src=src/Example/PHP56/Variadics.php">Source</a></li>
+        </ul>
+    </li>
+    
+    
 </ul>
 </div>
 </body>
