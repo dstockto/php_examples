@@ -2,13 +2,12 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>PHP 5.3 - 5.6 Examples</title>
+    <title>PHP 5.3 - 7.0 Examples</title>
     <link href="/css/bootstrap.css" rel="stylesheet">
     <script src="/js/bootstrap.js"></script>
 </head>
 <body>
 <div class="container">
-
 
 <ul>
     <li>
@@ -89,6 +88,44 @@
                 - <a href="viewer.php?src=src/Example/PHP56/UseFunction.php">Source</a></li>
             <li><a href="runcode.php?src=Example\PHP56\Variadics">Variadics</a>
                 - <a href="viewer.php?src=src/Example/PHP56/Variadics.php">Source</a></li>
+        </ul>
+    </li>
+    <li>PHP 7.0
+        <ul>
+            <li><a href="runcode.php?src=Example\PHP70\ScalarTypeDeclarations">Scalar Type Declarations</a>
+                - <a href="viewer.php?src=src/Example/PHP70/ScalarTypeDeclarations.php">Source</a></li>
+<!--            <li><a href="runcode.php?src=Example\PHP70\ReturnTypeDeclarations">Return Type Declarations</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/ReturnTypeDeclarations.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\NullCoalescingOperator">Null Coalescing Operator</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/NullCoalescingOperator.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\SpaceshipOperator">Spaceship Operator</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/SpaceshipOperator.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\ConstantArraysUsingDefine">Constant Arrays Using Define</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/ConstantArraysUsingDefine.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\AnonymousClasses">Anonymous Classes</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/AnonymousClasses.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\UnicodeCodePointEscapeSyntax">Unicode Codepoint Escape Syntax</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/UnicodeCodePointEscapeSyntax.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\ClosureCall">Closure::call()</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/ClosureCall.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\FilteredUnserialize">Filtered Unserialize</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/FilteredUnserialize.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\Expectations">Expectations</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/Expectations.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\GroupUseDeclarations">Group Use Declarations</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/GroupUseDeclarations.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\GeneratorReturnExpressions">Generator Return Expressions</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/GeneratorReturnExpressions.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\GeneratorDelegation">Generator Delegation</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/GeneratorDelegation.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\IntegerDivision">Integer Division with intdiv()</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/IntegerDivision.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\PregReplaceCallBackArray">preg_replace_callback_array()</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/PregReplaceCallBackArray.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\ListUnpackArrayAccess">list() can always unpack objects implementing ArrayAccess</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/ListUnpackArrayAccess.php">Source</a></li>-->
+<!--            <li><a href="runcode.php?src=Example\PHP70\CsprngFunctions">CSPRNG Functions</a>-->
+<!--                - <a href="viewer.php?src=src/Example/PHP70/CsprngFunctions.php">Source</a></li>-->
         </ul>
     </li>
     
